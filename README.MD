@@ -1,6 +1,6 @@
  
 ### Controle de Metas API
-Este é um projeto de API REST com Node.js para controle de metas. As principais funcionalidades planejadas para o projeto de API de controle de metas incluem:
+Este é um projeto de uma API REST com Node.js para controle de metas. As principais funcionalidades implementadas neste projeto de gerenciamento de metas incluem:
 - Gerenciamento de Metas: Criar, ler, atualizar e deletar metas.
 - Categorias de Metas: Organização das metas em categorias.
 - Relatórios: Geração de relatórios sobre o progresso das metas.
@@ -16,5 +16,5 @@ Este é um projeto de API REST com Node.js para controle de metas. As principais
 - PostgreSQL
 
 ### Licença
-Não especificada
+ISC
 
